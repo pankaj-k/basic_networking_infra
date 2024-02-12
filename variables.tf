@@ -1,3 +1,4 @@
 variable "region" {
-  default = "us-east-1" #US East Virginia
+    type = string
+    default = "us-east-1"
 }
